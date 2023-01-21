@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1667868378 source:c:\users\user\desktop\tplaboratorio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuservicios.h"
+	"Contenedor.h"
+	"Libro.h"
+
+1667846869 c:\users\user\desktop\tplaboratorio\include\arbin.h
+	"Contenedor.h"
+	"Libro.h"
+	<iostream>
+
+1667862340 c:\users\user\desktop\tplaboratorio\include\contenedor.h
+
+1667844874 c:\users\user\desktop\tplaboratorio\include\libro.h
+	<iostream>
+	"contenedor.h"
+
+1667847101 source:c:\users\user\desktop\tplaboratorio\src\arbol.cpp
+	"arbol.h"
+
+1667847016 c:\users\user\desktop\tplaboratorio\include\arbol.h
+	"Contenedor.h"
+	"Libro.h"
+
+1667862340 source:c:\users\user\desktop\tplaboratorio\src\contenedor.cpp
+	<iostream>
+	"contenedor.h"
+	"libro.h"
+
+1667845132 source:c:\users\user\desktop\tplaboratorio\src\libro.cpp
+	"libro.h"
+	"Libro.h"
+
+1667845424 source:c:\users\user\desktop\tplaboratorio\src\nodo.cpp
+	"nodo.h"
+	"Libro.h"
+
+1667845424 c:\users\user\desktop\tplaboratorio\include\nodo.h
+	<iostream>
+
+1667857362 source:c:\users\user\desktop\tplaboratorio\src\arbin.cpp
+	"arbin.h"
+
+1667873227 c:\users\user\desktop\tplaboratorio\include\menuservicios.h
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Contenedor.h"
+	"Libro.h"
+
+1667873681 source:c:\users\user\desktop\tplaboratorio\src\menuservicios.cpp
+	"menuservicios.h"
+
+1668056239 source:c:\users\user\desktop\tp laboratorio conti orsingher\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuservicios.h"
+	"Contenedor.h"
+	"Libro.h"
+
+1668057688 c:\users\user\desktop\tp laboratorio conti orsingher\include\menuservicios.h
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Contenedor.h"
+	"Libro.h"
+
+1668063916 c:\users\user\desktop\tp laboratorio conti orsingher\include\contenedor.h
+
+1668050550 c:\users\user\desktop\tp laboratorio conti orsingher\include\libro.h
+	<iostream>
+	"contenedor.h"
+
+1668063916 source:c:\users\user\desktop\tp laboratorio conti orsingher\src\contenedor.cpp
+	<iostream>
+	"contenedor.h"
+	"libro.h"
+
+1668050719 source:c:\users\user\desktop\tp laboratorio conti orsingher\src\libro.cpp
+	"Libro.h"
+
+1668067387 source:c:\users\user\desktop\tp laboratorio conti orsingher\src\menuservicios.cpp
+	"menuservicios.h"
+
+1668056239 source:c:\users\user\desktop\grupo36-conti_orsingher\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuservicios.h"
+	"Contenedor.h"
+	"Libro.h"
+
+1668124076 c:\users\user\desktop\grupo36-conti_orsingher\include\menuservicios.h
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Contenedor.h"
+	"Libro.h"
+
+1668063916 c:\users\user\desktop\grupo36-conti_orsingher\include\contenedor.h
+
+1668050550 c:\users\user\desktop\grupo36-conti_orsingher\include\libro.h
+	<iostream>
+	"contenedor.h"
+
+1668123791 source:c:\users\user\desktop\grupo36-conti_orsingher\src\contenedor.cpp
+	<iostream>
+	"contenedor.h"
+	"libro.h"
+
+1668050719 source:c:\users\user\desktop\grupo36-conti_orsingher\src\libro.cpp
+	"Libro.h"
+
+1668067387 source:c:\users\user\desktop\grupo36-conti_orsingher\src\menuservicios.cpp
+	"menuservicios.h"
+
